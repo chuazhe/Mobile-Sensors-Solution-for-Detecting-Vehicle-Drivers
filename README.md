@@ -1,7 +1,7 @@
 # Mobile Sensors & Solution for Detecting Vehicle Drivers
-Sep 2018 – Dec 2018
+## Sep 2018 – Dec 2018
 
-Project description- Worked as the team leader on four-month project (Mobile Sensors & Solution for Detecting Vehicle Drivers)
+## Worked as the team leader on four-month project (Mobile Sensors & Solution for Detecting Vehicle Drivers)
 
 Reduction in road accident still remain a big challenge to current and future transportation system as the rate of road accident rise every year even with all the advancement of technology and initiative by the government.
 With the advancement in technologies and sensor, detection and identification of the user has become a hot topic in research methods. Identification of the user is possible with the support of various research paper but most require a modification to the vehicle which make the method impractical because modification to a vehicle is slow and inefficient. However, some research papers have suggested the method of using the built-in sensors and features that are available on the smartphone. As the world is slowly become technologically advanced, mobile sensors are evolving continually and becoming better and accurate. Hereafter, it will only become more and more advanced and eventually play an important part in our daily life.
